@@ -1,0 +1,6 @@
+Buka terminal ubuntu
+Masuk ke directory penyimpananan file : ( Ketik cd Downloads )
+Ketik sudo dpkg -i google chroom.deb : ( Misal Aplikasi google tekan Tab )
+Tekan Enter dan tunggu sampai selesai
+
+Noted : Installasi software berekstensi (.deb ) di terminal ubuntu
