@@ -1,0 +1,8 @@
+Buka Terminal
+Buat Directory baru = ( mkdir Vs_code )
+Masuk ke directory misal = ( cd Documents/Vs_Code )
+Software VsCode yang telah Di Download masukan ke folder = ( Vs_Code )
+Install Vscode = ( sudo dpkg -i code Tekan Tab lalu Enter )
+Membuka aplikasi = ( ketik code Via Terminal )
+
+Note = Instalasi ini menggunakan Anaconda 
