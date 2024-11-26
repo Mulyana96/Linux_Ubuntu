@@ -1,0 +1,9 @@
+Buka terminal
+Masuk kedirectory file disimpan = ( ketik cd Downloads )
+Gunakan permission mode
+Ketik sudo chmod 755 xampp.run = ( ketik xampp lalu tekan Tab )
+Ketik ls file secara automatis berubah warna
+Proses installasi ketik = ( sudo ./xampp.run tekan Tab )
+Tunggu sampai proses install selesai
+
+Noted : Installasi software berekstensi ( .run .sh .bin ) di terminal ubuntu
