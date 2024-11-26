@@ -1,0 +1,17 @@
+# Cara install Orange3 di ubuntu Terminal
+
+Instalasi menggunakan Anaconda :
+
+1. Buka Terminal
+
+2. Buat Folder : 
+   "mkdir Orange"
+
+3. Masuk Folder :
+   "cd Documents/Orange
+
+4. Ketikan perintah :
+   "conda install orange3" (Instalasi akan berjalan)
+
+5. Untuk membuka Orange :
+   "orange-canvas"
