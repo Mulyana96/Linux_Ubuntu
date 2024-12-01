@@ -1,0 +1,14 @@
+===cara install xampp lewat Terminal ubuntu===
+
+cd Downloads = ls (file awal Download berekstensti .run)
+sudo chmod 755 xampp-linux-x64-7.0.0-0-installer.run
+sudo ./xampp-linux-x64-7.0.0-0-installer.run
+install seperti biasa dan tunggu sampai (Finish)
+
+===Cara uninstall xampp lewat Terminal ubuntu===
+
+cd /opt/lampp
+sudo su ( masuk ke root master )
+./uninstall
+Auto complete (Tekan Enter)
+
